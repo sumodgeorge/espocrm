@@ -46,7 +46,7 @@
     "cronstrue": "^1.114.0",
     "cropper": "^0.7.9",
     "devbridge-autocomplete": "^1.4.9",
-    "dompurify": "^2.2.9",
+    "dompurify": "^2.4.2",
     "es6-promise": "^3.0.2",
     "espo-funnel-chart": "git://github.com/yurikuzn/espo-funnel-chart.git#0.1.0",
     "exif-js": "^2.3.0",
